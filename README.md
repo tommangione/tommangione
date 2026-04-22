@@ -1,6 +1,11 @@
-### Tom Mangione M.Ed.
+# Tom Mangione M.Ed.
 
-# STEM teacher at Taft High School in Chicago, Illinois.
+## STEM teacher at Taft High School in Chicago, Illinois.
+
+###25-26 Classes:
+- AP CSP
+- ECS
+- Entrepreneurship I
 
 Classroom teacher and founder of Dialectic InfoTech, an AI startup. I build at the intersection of education and applied AI. My projects range from startup work to smaller tools that sharpen my teaching practice.
 
