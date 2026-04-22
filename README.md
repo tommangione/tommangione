@@ -2,7 +2,7 @@
 
 ## STEM teacher at Taft High School in Chicago, Illinois.
 
-###25-26 Classes:
+### 25-26 Classes:
 - AP CSP
 - ECS
 - Entrepreneurship I
